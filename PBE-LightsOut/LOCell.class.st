@@ -1,3 +1,6 @@
+"
+I represent a cell in the LightsOut game.
+"
 Class {
 	#name : #LOCell,
 	#superclass : #SimpleSwitchMorph,
