@@ -31,3 +31,8 @@ LOCell >> mouseAction [
 LOCell >> mouseAction: anObject [
 	mouseAction := anObject
 ]
+
+{ #category : #'event handling' }
+LOCell >> mouseUp: anEvent [
+mouseAction value
+]
