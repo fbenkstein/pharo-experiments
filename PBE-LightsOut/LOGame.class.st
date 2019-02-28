@@ -1,3 +1,6 @@
+"
+I represent the Lights Out game.
+"
 Class {
 	#name : #LOGame,
 	#superclass : #BorderedMorph,
